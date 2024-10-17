@@ -1,12 +1,6 @@
 '''
 ========================================================================================================
 
-Milestone 3
-
-Nama  : Ciputra Wangsa
-
-Batch : HCK - 020
-
 Program ini dibuat untuk membangun sistem automasi yang akan dijalankan didalam airflow.
 
 ========================================================================================================
