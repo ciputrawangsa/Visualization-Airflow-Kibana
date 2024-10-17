@@ -1,15 +1,20 @@
-# Visualisasi Airflow - Elastic Search - Kibana 📊 - ![Airflow](https://img.shields.io/badge/Airflow-17B3A3?style=for-the-badge&logo=Apache-Airflow&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white) ![Elastic_search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+# Visualisasi Revenue 📊 - ![Airflow](https://img.shields.io/badge/Airflow-17B3A3?style=for-the-badge&logo=Apache-Airflow&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white) ![Elastic_search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 Repositori ini berisi proyek visualisasi data menggunakan Apache Airflow dan Kibana. Proyek ini bertujuan untuk mengautomasi alur kerja pengolahan data dan menyajikannya secara visual menggunakan Kibana. Repositori ini mencakup file Python yang menjelaskan proses secara menyeluruh, mulai dari pengaturan DAG di Airflow, pengindexan data di Elastic Search hingga visualisasi data di Kibana.
 
 ## Daftar Isi 🗒️
-1. [Project Overview](#project-overview-)
-2. [Metode yang Digunakan](#metode-yang-digunakan-)
-3. [File yang Tersedia](#file-yang-tersedia-)
-4. [Cara Menggunakan Project Ini](#cara-menggunakan-project-ini-)
-5. [Dependencies](#dependencies-)
-6. [Libraries](#libraries-)
-7. [Author](#author-)
+1. [Link Terkait Project](#link-terkait-project-)
+2. [Project Overview](#project-overview-)
+3. [Metode yang Digunakan](#metode-yang-digunakan-)
+4. [File yang Tersedia](#file-yang-tersedia-)
+5. [Cara Menggunakan Project Ini](#cara-menggunakan-project-ini-)
+6. [Dependencies](#dependencies-)
+7. [Libraries](#libraries-)
+8. [Author](#author-)
+
+## Link Terkait Project ⛓️‍💥
+
+- [Dataset](https://www.kaggle.com/datasets/bhavikjikadara/retail-transactional-dataset)
 
 ## Project Overview 📝
 
@@ -58,7 +63,7 @@ Dalam proyek ini, saya menggunakan Apache Airflow untuk mengautomasi proses ETL 
 
 ## Dependencies ⚙️
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 3.10.14
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 3.8.20
 - ![Apache Airflow](https://img.shields.io/badge/Airflow-17B3A3?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
 
 ## Libraries 📚
@@ -72,4 +77,5 @@ Dalam proyek ini, saya menggunakan Apache Airflow untuk mengautomasi proses ETL 
 
 ## Author ✍️
 **Ciputra Wangsa**
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciputra-wangsa/)
